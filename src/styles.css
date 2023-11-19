@@ -1,6 +1,7 @@
 div {
     background: red;
     max-width: 1200px;
+    max-height: 800px;
 }
 
 span {
